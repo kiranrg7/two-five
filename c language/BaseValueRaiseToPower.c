@@ -9,7 +9,7 @@ int main()
     int i=1;
     long result=1;
 
-    printf("Enter and power value respectively");
+    printf("Enter base and power value respectively");
     scanf("%d%d",&base_value,&power_value);
     
     for(i=1;i<=power_value;i++)
