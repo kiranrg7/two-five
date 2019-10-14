@@ -1,4 +1,4 @@
-#cerner_2^5_2019
+# cerner_2^5_2019
 import math
 print(math.sqrt(6))
 print(math.ceil(5.9))
